@@ -2,23 +2,23 @@
   "stock": [
     {
       "id": 1,
-      "amount": 3
+      "amount": 10
     },
     {
       "id": 2,
-      "amount": 5
+      "amount": 10
     },
     {
       "id": 3,
-      "amount": 2
+      "amount": 10
     },
     {
       "id": 4,
-      "amount": 1
+      "amount": 10
     },
     {
       "id": 5,
-      "amount": 5
+      "amount": 10
     },
     {
       "id": 6,
@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "Pizza Lord Suprema de Frango",
       "price": 30.0,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "image": "https://pitel.com.br/wp-content/uploads/2019/04/PIZZA-HUT_SANTO-DESCONTO.jpg"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Pizza Lord Suprema de Calabresa",
+      "price": 30.0,
+      "image": "https://img.itdg.com.br/tdg/images/recipes/000/093/498/323883/323883_original.jpg?mode=crop&width=710&height=400"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Pizza Lord Suprema de Camarão",
+      "price": 30.0,
+      "image": "https://img.cybercook.com.br/imagens/receitas/992/massa-basica-de-pizza-para-forno-a-gas-623x350.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Pizza Lord Suprema Marguerita",
+      "price": 30.0,
+      "image": "https://pizzaretro.com.br/images/3.jpg?crc=295230085"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Pizza Lord Suprema Frango e Bacon",
+      "price": 30.0,
+      "image": "https://s2.glbimg.com/Hp4zt7vIG47XCh41raZOkxKAHIc=/0x0:2048x1536/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2015/10/04/18_01_45_926_SAM_4319.JPG"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Pizza Lord Suprema do Chef",
+      "price": 30.0,
+      "image": "https://marciatravessoni.com.br/wp-content/uploads/2019/07/Pizza-Coco-Bambu-993x660.jpg"
     }
   ]
 }
