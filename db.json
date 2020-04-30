@@ -28,14 +28,6 @@
       "id": 7,
       "amount": 10
     },
-    /* {
-      "id": 8,
-      "amount": 10
-    },
-    {
-      "id": 9,
-      "amount": 10
-    } */
   ],
   "products": [
     {
@@ -87,21 +79,6 @@
       "price": 30.0,
       "image": "https://lh3.googleusercontent.com/SYTV8wa7DSs_NL3bgtltDEF8xuLVk7nVH0_xboZkNr1kfLObB3GAdQk9audD1Xb-mspfWIXGGoN9pVyj_O8MthPpKvcHgtLMdk3cBx9vBD0AiG_oMq3zO6ELEfXUnLp5yMY52F-RhQuAeegEw8U_nDF96dbrO11lRFCzwU-DifPi9Bk7wk5ovPmUaPsuBoxaasxX8NUtnmtquqNCU_bMQWTG-0I7AnkloDftzo5XSkY8N3EUiltmRDFwR_Dzyt6HI3REJVJx1qncMZGZhmyfa-0sZMyKbJJmaytP1aOGW5tQX31vuxc_QceDFmnqVqIiaa0iPgxkO6XiCxxl2IbGxLkbzk6TCeZ9GUebnVDhVfk-kl_t8KQ_bavxLBHWKknRxaLZvAMlFABmuUFeFF181pqSX91KdCg70C61Dzqp7l76_TvU2u438ttFmw8oMf0RYcnMrs_PNFq3ultuY_6nQ6VstqkvU_jw7Ne4pqJDcWPLTaMfve0RgJArvXYrKs4LYLxAdoLlr7bzASdklGSL_xPR3L8tsacLqUW3N4Fxsg4QiBkm7fnrJrY8dW51MGA4s4xei1Fx5nlllkXj08DHAZM51SQOdoJgou5JTWbYHu-PpGwdNQlntCm_DHwxcU3rHuNV9eA3BIvSTFSishtpezKSFkc4cqnkir-vQ57lIKrPzMAtihWYaoYIuO02TNiAmOhdGEYBs16UnJRVbv9Kfag5_bF_YcT2KSLzAuVUoyc7KR0E54DlH6g=w835-h943-no"
     },
-    /*
-    {
-      "id": 8,
-      "title": "Lord Suprema Mussarela",
-      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, orégano.",
-      "price": 30.0,
-      "image": "https://lh3.googleusercontent.com/SYTV8wa7DSs_NL3bgtltDEF8xuLVk7nVH0_xboZkNr1kfLObB3GAdQk9audD1Xb-mspfWIXGGoN9pVyj_O8MthPpKvcHgtLMdk3cBx9vBD0AiG_oMq3zO6ELEfXUnLp5yMY52F-RhQuAeegEw8U_nDF96dbrO11lRFCzwU-DifPi9Bk7wk5ovPmUaPsuBoxaasxX8NUtnmtquqNCU_bMQWTG-0I7AnkloDftzo5XSkY8N3EUiltmRDFwR_Dzyt6HI3REJVJx1qncMZGZhmyfa-0sZMyKbJJmaytP1aOGW5tQX31vuxc_QceDFmnqVqIiaa0iPgxkO6XiCxxl2IbGxLkbzk6TCeZ9GUebnVDhVfk-kl_t8KQ_bavxLBHWKknRxaLZvAMlFABmuUFeFF181pqSX91KdCg70C61Dzqp7l76_TvU2u438ttFmw8oMf0RYcnMrs_PNFq3ultuY_6nQ6VstqkvU_jw7Ne4pqJDcWPLTaMfve0RgJArvXYrKs4LYLxAdoLlr7bzASdklGSL_xPR3L8tsacLqUW3N4Fxsg4QiBkm7fnrJrY8dW51MGA4s4xei1Fx5nlllkXj08DHAZM51SQOdoJgou5JTWbYHu-PpGwdNQlntCm_DHwxcU3rHuNV9eA3BIvSTFSishtpezKSFkc4cqnkir-vQ57lIKrPzMAtihWYaoYIuO02TNiAmOhdGEYBs16UnJRVbv9Kfag5_bF_YcT2KSLzAuVUoyc7KR0E54DlH6g=w835-h943-no"
-    },
-    {
-      "id": 9,
-      "title": "Lord Suprema Mista",
-      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, presunto de peru, orégano.",
-      "price": 30.0,
-      "image": "https://lh3.googleusercontent.com/SYTV8wa7DSs_NL3bgtltDEF8xuLVk7nVH0_xboZkNr1kfLObB3GAdQk9audD1Xb-mspfWIXGGoN9pVyj_O8MthPpKvcHgtLMdk3cBx9vBD0AiG_oMq3zO6ELEfXUnLp5yMY52F-RhQuAeegEw8U_nDF96dbrO11lRFCzwU-DifPi9Bk7wk5ovPmUaPsuBoxaasxX8NUtnmtquqNCU_bMQWTG-0I7AnkloDftzo5XSkY8N3EUiltmRDFwR_Dzyt6HI3REJVJx1qncMZGZhmyfa-0sZMyKbJJmaytP1aOGW5tQX31vuxc_QceDFmnqVqIiaa0iPgxkO6XiCxxl2IbGxLkbzk6TCeZ9GUebnVDhVfk-kl_t8KQ_bavxLBHWKknRxaLZvAMlFABmuUFeFF181pqSX91KdCg70C61Dzqp7l76_TvU2u438ttFmw8oMf0RYcnMrs_PNFq3ultuY_6nQ6VstqkvU_jw7Ne4pqJDcWPLTaMfve0RgJArvXYrKs4LYLxAdoLlr7bzASdklGSL_xPR3L8tsacLqUW3N4Fxsg4QiBkm7fnrJrY8dW51MGA4s4xei1Fx5nlllkXj08DHAZM51SQOdoJgou5JTWbYHu-PpGwdNQlntCm_DHwxcU3rHuNV9eA3BIvSTFSishtpezKSFkc4cqnkir-vQ57lIKrPzMAtihWYaoYIuO02TNiAmOhdGEYBs16UnJRVbv9Kfag5_bF_YcT2KSLzAuVUoyc7KR0E54DlH6g=w835-h943-no"
-    }
-    */
+  
   ]
 }
